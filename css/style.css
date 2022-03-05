@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+.step0 {
+    width: 100px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid #666;
+    box-sizing: border-box;
+    margin-left: 0;
+}
+
+.step1 {
+    width: 100px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid #666;
+    box-sizing: border-box;
+    margin-left: 100px;
+}
+
+.step2 {
+    width: 100px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid #666;
+    box-sizing: border-box;
+    margin-left: 200px;
+}
+
+.step3 {
+    width: 100px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid #666;
+    box-sizing: border-box;
+    margin-left: 300px;
+}
+
+.step4 {
+    width: 100px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid #666;
+    box-sizing: border-box;
+    margin-left: 400px;
+}
+
+.portfolio {
+    width: 100px;
+    height: 100%;
+    border: 5px solid #666;
+    box-sizing: border-box;
+    font-size: 26px;
+}
