@@ -4,7 +4,7 @@
     outline: 0;
 }
 
-.step0 {
+/* .step0 {
     width: 100px;
     height: 50px;
     padding-left: 10px;
@@ -60,4 +60,14 @@
     border: 5px solid #666;
     box-sizing: border-box;
     font-size: 26px;
+} */
+
+ul {
+    margin-top: 50px;
+    list-style: none;
+}
+
+ul li {
+    /* display: inline-block; */
+    margin-bottom: 10px;
 }
